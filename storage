@@ -1,0 +1,13 @@
+# TODO 本地和数据库存储
+import os
+import pymongo
+
+# 本地存储
+class SaveInHost(object):
+    pass
+    
+
+# 存进数据库(Mongodb)
+class SaveInDB(object):
+    def __init__(self):
+        pass
